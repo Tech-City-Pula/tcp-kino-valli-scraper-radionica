@@ -28,7 +28,7 @@ A live collaboration plugin. Allows people to join you to code together!
 ## checkpoints
 
 ### **🏗️ project setup**
-first we pull the repo. we can do this using Github CLI run `gh clone <repo name>`. 
+first we pull the repo. we can do this using Github CLI run `gh repo clone Tech-City-Pula/tcp-kino-valli-scraper-radionica`. 
 
 next up we install dependencies. run the command `npm install` at the root of the project (folder with this README.md file). 
 
