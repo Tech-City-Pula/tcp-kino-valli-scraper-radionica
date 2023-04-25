@@ -1,6 +1,6 @@
-# tcp kino valli scraper
+# 😮‍💨 tcp kino valli scraper
 
-## pre-requisites
+## 🚨 pre-requisites
 
 ### [Github account](https://github.com/)
 
